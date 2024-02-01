@@ -64,4 +64,4 @@ Referenced site to help with duplicated function: https://www.geeksforgeeks.org/
 
 Leveraged Bootcamp's Xpert Learning Assistant (https://bootcampspot.instructure.com/courses/4981/external_tools/313) and ChatGPT frequently to troubleshoot errors.
 
-Obtained help from bootcamp study group, specifically Christine Jauregui and Gabriella Kruger to help understand concepts learned in class and how to apply to my code.
+Obtained help from bootcamp study group, specifically Christine Jauregui and Gabriella Kruger to help understand concepts learned in class and how to apply to my code. 
